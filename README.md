@@ -77,6 +77,10 @@ Programs (e.g., "Aharaitech", "TechLift")
 | **Instructor/Assistant**          | Course-level                     | Deliver instruction, grade assignments, support students     |
 | **Student**                       | Content-level (Invdividual)      | Participate in courses, complete assignments, track progress |
 
+#### 2.3.1 Tree Diagram of User Roles
+
+![Tree Diagram of User Roles](/role-hierarchy-tree-diagram.jpg)
+
 ### 2.4 Operating Environment
 
 - **Deployment:** Cloud-hosted (AWS/Azure/GCP)
@@ -337,10 +341,6 @@ In some cases, a checkmark logically implies that the action is permitted only w
 | Take quizzes                        | ❌                | ❌                  | ❌       | ❌                | ❌                            | ❌                   | ✅      |
 | View reports and logs               | ✅                | ❌                  | ❌       | ❌                | ❌                            | ❌                   | ❌      |
 | Import/Export Data                  | ✅                | ✅                  | ✅       | ✅                | ✅                            | ✅                   | ❌      |
-
-#### 6.4 Tree Diagram of User Roles
-
-![Tree Diagram of User Roles](/role-hierarchy-tree-diagram.jpg)
 
 ---
 
